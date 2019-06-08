@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "172788515690",
+    "firebase_url": "https://cryptomarket-78626.firebaseio.com",
+    "project_id": "cryptomarket-78626",
+    "storage_bucket": "cryptomarket-78626.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172788515690:android:16f3c41ec81aaeae",
+        "android_client_info": {
+          "package_name": "com.example.arpit.cryptomarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172788515690-shuaaf983ce91n1ovmds55l41rovp24s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6KsociRBYmJF6cbPLDJpNrlmV2bMaQ4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172788515690-shuaaf983ce91n1ovmds55l41rovp24s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

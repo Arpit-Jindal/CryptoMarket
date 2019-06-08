@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">CryptoMarket</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title_activity_second">SecondActivity</string>
+
+    <string name="slide_1_title">Welcome</string>
+    <string name="slide_2_title">Secure</string>
+    <string name="slide_3_title">Trusted</string>
+
+
+    <string name="slide_1_desc">A technology likely to have greatest impact over the next decade has arrived.</string>
+    <string name="slide_2_desc">CryptoMarket has brought to you a secure platform to get live updates.</string>
+    <string name="slide_3_desc">CryptoMarket is your trusted source for live cryptocurrency price charts
+        and real time cryptocurrency price</string>
+
+
+    <string name="my_preference">"com.abc.com.MyPref"</string>
+    <string name="my_preference_key">"com.abc.com.MyPrefKey"</string>
+    <string name="title_activity_coin_main">CoinMainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
